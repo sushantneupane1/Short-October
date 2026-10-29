@@ -1,0 +1,826 @@
+{
+  "title": "11:11 PM",
+  "subtitle": "October Theory",
+  "tagline": "'A Strange Feeling That Never Goes Away.'",
+  "settings": {
+    "textReveal": "fade",
+    "defaultPauseAfter": 1.15,
+    "music": null,
+    "ambience": null
+  },
+  "scenes": [
+    {
+      "id": "opening",
+      "type": "title",
+      "beats": [
+        {
+          "type": "title",
+          "text": "11:11 pm"
+        },
+        {
+          "type": "subtitle",
+          "text": "'October Theory'"
+        },
+        {
+          "type": "tagline",
+          "text": "'Things Are Meant To End.'"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "type": "narrative",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "There is a boy, inspired by my own experience.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "narration",
+          "text": "He is an ordinary eighteen-year-old college boy. He used to talk to a girl, sharing little things about his day and listening to hers. But since few days, they no longer talk.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "narration",
+          "text": "Now, he sits alone in his dark room. There is no light except the faint glow of his phone screen, illuminating his face as he speaks to his own thoughts. He looks at the clock: 11:18 pm.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Hm… So this is how it was going to end.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Although, I always knew that at some point, we would have to choose our own paths.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I just… wish it had stayed a little longer.",
+          "musicLevel": 0.6,
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "But she has her own life, too.",
+          "musicLevel": 1,
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He pauses, staring at the last messages on his screen.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "Sometimes, I wonder… did she ever feel the same way I did when we were talking?",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Was she ever as excited to see my messages as I was to see hers?",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I guess I'll never know.",
+          "pauseAfter": 1.8
+        },
+        {
+          "type": "thought",
+          "text": "I never asked her.",
+          "musicLevel": 0.4,
+          "pauseAfter": 2.7
+        },
+        {
+          "type": "stage",
+          "text": "He scrolls through their old conversations, his thumb stopping at a random message.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "I wish she knew how eagerly I used to wait to listen to her stories. How many times I checked my phone, hoping there would be a message from her.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Minutes after minutes… I'd check again.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Even when I knew there probably wouldn't be anything new.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He glances at the clock.",
+          "musicLevel": 1,
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "It's almost midnight now.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "What could she be doing right now?",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He thinks for a moment.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "Probably sleeping. She used to sleep early.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "A faint smile appears on his face, but it disappears almost immediately.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "Hm…",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He puts his phone down and looks out of the window. The moon is bright, illuminating the otherwise silent night.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "Can I ever forget you?",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "silence",
+          "text": "",
+          "pauseAfter": 2.8
+        },
+        {
+          "type": "thought",
+          "text": "I don't think so.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Even if you talked to me out of sympathy… even if those conversations were just a way to pass the time for you…",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "You were still the only person I had to talk to. The only person whose company I genuinely enjoyed.",
+          "pauseAfter": 1.7
+        },
+        {
+          "type": "thought",
+          "text": "Whenever our late-night conversations were about to end, I'd always look for a way to extend them just a little longer.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Not because I wanted to keep you awake.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "But because, somewhere in my mind, I thought… if we could talk a little longer tonight, maybe you'd feel comfortable enough to come back tomorrow.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Maybe you wouldn't feel awkward talking to me again.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Maybe there would be another night.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He leans back against the wall, staring at the ceiling.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "It's strange, isn't it?",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "How easily I opened up to you.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "My everyday routines. My hobbies. The most random things about my life.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "And without even realizing it, I started learning about yours, too.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Your family. Your behaviour. Your routines. Your sense of humour.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "All those little things that probably seemed so ordinary to you.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "But somehow, I remembered them.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I don't think our connection was something ordinary… at least, not to me.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He pauses, searching for the right words.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "It wasn't love.",
+          "musicLevel": 0.55,
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "At least, I don't think it was.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "It was something else.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Something I couldn't quite name.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Something that felt like more than just friendship, but something I never got the chance to understand.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Maybe it was the comfort. Maybe it was the trust. Maybe it was simply the feeling of finally having someone to share my thoughts with.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Or maybe it was something beyond what I knew how to describe.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I don't know.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I just know that it meant something to me.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He picks up his phone again, opening their conversation one last time.",
+          "musicLevel": 1,
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "I wonder if you'll ever remember those late-night conversations.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Our random little talks. Our stupid jokes. The things we shared without even thinking twice.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I don't know if you'll remember them tomorrow, next month, or years from now.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "But I know I'll remember them.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Not because I want to hold on to the past forever…",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "But because, for a little while, those conversations became a part of my life that I genuinely loved.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "His eyes move toward the window again.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "You healed something in me that I didn't even know needed healing.",
+          "musicLevel": 0.5,
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Before you, my nights were different.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I had things I wanted to leave behind, but I didn't know how to escape them. I was lonely, and I had grown used to distracting myself just to get through the silence.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "But then you came along.",
+          "pauseAfter": 1.8
+        },
+        {
+          "type": "thought",
+          "text": "And suddenly, I had something else to look forward to.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Someone to talk to. Someone to listen to. Someone whose messages could make an ordinary night feel different.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "You probably never knew that.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "And maybe you never will.",
+          "musicLevel": 1,
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He takes a slow breath.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "I don't even know if I'll ever meet you in real life.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Maybe we will someday. Maybe we won't.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "But whatever it was that brought me closer to you… whatever made those conversations feel so different from everything else…",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I don't think I could ever explain it properly.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He remembers something she once said.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "You once told me, 'They say I'm the type of person whoever talks to gets attached.'",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Back then, I didn't think much about it.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He gives a quiet, almost bitter laugh.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "But now… I think I understand what you meant.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Maybe you didn't realize how easily people could grow attached to the way you listened, the way you shared things, or the way you made an ordinary conversation feel special.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Or maybe you did.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I don't know.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I only know what happened to me.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "His expression becomes serious.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "I wish you could have stayed a little longer.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Just a little longer.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Not forever. Not even long enough to promise me anything.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Just long enough for me to understand what this was.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Long enough for you to know how I felt.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Because maybe, for you, those were just casual conversations. Maybe you were simply being kind. Maybe you were replying out of sympathy, or maybe you were just passing the time.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I'll never know which one it was.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "But for me…",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He looks at the empty space beside him.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "For me, you were someone I could talk to.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Someone who gave me their time.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Someone who listened.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Someone who felt like a friend.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Someone who gave me hope when I didn't even realize how much I needed it.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "And, in a way, someone who made me want to become a better person.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "The room falls silent. His phone screen dims.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "And now, here I am again.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Back in my own little world.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "The same dark room. The same silence. The same thoughts that nobody else knows about.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Just me… and this mind of mine that never seems to stop thinking.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He looks at the moon for a long time.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "Maybe this is where I belong.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Alone, where nobody knows how much I feel, how much I think, or how much meaning I can find in the smallest things.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Or maybe I'm just telling myself that because it's easier than admitting that I miss having someone.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He closes his eyes.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "And then I remembered something people call the October Theory.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "They say October brings you one of two things.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Either you meet someone who truly loves you and stays…",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Or you lose someone you truly love.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He opens his eyes and looks at the moon again.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "But I don't know what happened to me.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I don't know if I found someone I was meant to keep, or someone I was only meant to meet.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I don't even know what we were to each other.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Whatever it was, it didn't feel like either of those things.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "It felt like something completely different.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Something unfinished.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Something that changed me, even if it was never meant to stay.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He unlocks his phone. Their chat is still open.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "stage",
+          "text": "His fingers hover over the keyboard.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "stage",
+          "text": "For a moment, it looks as though he might type something.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "A simple Hey.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "A How are you?",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Or perhaps everything he has just spent the night thinking about.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "But he types nothing.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "stage",
+          "text": "He locks the screen and places the phone beside him.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "stage",
+          "text": "The moonlight falls across his face.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "Anyways…",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "A faint smile.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "thought",
+          "text": "I'll always be grateful that I met you, Sisaaa.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "silence",
+          "text": "",
+          "pauseAfter": 2.8
+        },
+        {
+          "type": "thought",
+          "text": "Even if you never knew what you meant to me.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Even if we never talk again.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "Even if, someday, you forget all of this.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I hope life treats you kindly.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "I hope you find the things you're looking for.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "thought",
+          "text": "And I hope that, wherever you are, you have nights that make you happy.",
+          "pauseAfter": 0.9
+        },
+        {
+          "type": "stage",
+          "text": "He turns off his bedside lamp, though the room is already almost entirely dark.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "silence",
+          "text": "",
+          "pauseAfter": 2.5
+        },
+        {
+          "type": "whisper",
+          "text": "Goodnight, Sisaaa.",
+          "musicLevel": 0.3,
+          "pauseAfter": 2.4
+        },
+        {
+          "type": "silence",
+          "text": "",
+          "pauseAfter": 2.5
+        },
+        {
+          "type": "stage",
+          "text": "He lies down. The phone remains silent.",
+          "pauseAfter": 2
+        },
+        {
+          "type": "stage",
+          "text": "The camera slowly moves toward the window, past the boy's silhouette, and up to the bright moon.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "final",
+          "text": "Some people become a part of your life…",
+          "pauseAfter": 1.8
+        },
+        {
+          "type": "final",
+          "text": "Without ever becoming a part of your future.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "final",
+          "text": "And sometimes, the people who change you the most…",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "final",
+          "text": "Never even know they did.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "silence",
+          "text": "",
+          "pauseAfter": 2.8
+        },
+        {
+          "type": "final",
+          "text": "'The Wish Of 11:11 PM.'",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "final",
+          "text": "Some conversations end. Some feelings don't.",
+          "pauseAfter": 1.2
+        },
+        {
+          "type": "end",
+          "text": "END…?",
+          "pauseAfter": 0.9
+        }
+      ]
+    },
+    {
+      "id": "ending",
+      "type": "ending",
+      "beats": [
+        {
+          "type": "end",
+          "text": "END…?"
+        }
+      ]
+    }
+  ]
+}

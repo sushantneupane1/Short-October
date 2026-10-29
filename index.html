@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#07070a">
+  <meta name="description" content="11:11 PM — October Theory, a cinematic text and audio experience.">
+  <title>11:11 PM — October Theory</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="grain" aria-hidden="true"></div>
+  <main id="app">
+    <section id="title-screen" class="screen title-screen">
+      <div class="eyebrow">A SHORT STORY · OCTOBER</div>
+      <div class="moon" aria-hidden="true"></div>
+      <h1>11:11 <span>PM</span></h1>
+      <p class="subtitle">October Theory</p>
+      <p class="tagline">A Strange Feeling That Never Goes Away.</p>
+      <button id="begin" class="primary-button">Begin listening <span>↗</span></button>
+      <p class="hint">HEADPHONES RECOMMENDED</p>
+    </section>
+
+    <section id="story-screen" class="screen story-screen hidden" aria-live="polite">
+      <header class="hud">
+        <div class="hud-title">OCTOBER THEORY</div>
+        <div id="clock" class="clock">11:11 PM</div>
+        <button id="settings-toggle" class="icon-button" aria-label="Open listening settings" aria-expanded="false"
+          aria-controls="settings">☰</button>
+      </header>
+      <div class="story-content">
+        <div id="scene-label" class="scene-label">INNER MONOLOGUE</div>
+        <div id="dialogue" class="dialogue"></div>
+        <div id="continue-hint" class="continue-hint">CLICK OR PRESS SPACE</div>
+      </div>
+      <footer class="story-footer">
+        <div class="progress-track">
+          <div id="progress" class="progress"></div>
+        </div>
+        <div class="footer-meta"><span id="beat-counter">01</span><div class="story-controls"><button id="undo" class="story-control-button" type="button" aria-label="Go to previous sentence" disabled>↶ Undo</button><button id="pause-toggle" class="story-control-button" type="button" aria-label="Pause story" aria-pressed="false">Ⅱ Pause</button></div></div>
+      </footer>
+    </section>
+
+    <section id="end-screen" class="screen end-screen hidden">
+      <p class="end-line">Some conversations end.</p>
+      <p class="end-line">Some feelings don't.</p>
+      <div class="end-mark">END…?</div>
+      <button id="restart" class="text-button">Begin again</button>
+      <p class="credits">A SMALL STORY ABOUT SOMETHING UNFINISHED</p>
+    </section>
+  </main>
+
+  <div id="settings" class="overlay hidden" role="dialog" aria-modal="true" aria-labelledby="settings-title">
+    <div class="panel">
+      <div class="panel-heading">
+        <h2 id="settings-title">Listening settings</h2><button id="close-settings" class="icon-button"
+          aria-label="Close settings">×</button>
+      </div>
+      <label>Music <span id="music-value">20%</span><input id="music-volume" type="range" min="0" max="1" step="0.01"
+          value="0.2"></label>
+      <label>Night ambience <span id="ambience-value">20%</span><input id="ambience-volume" type="range" min="0" max="1"
+          step="0.01" value="0.2"></label>
+      <label>Sound effects <span id="sfx-value">55%</span><input id="sfx-volume" type="range" min="0" max="1"
+          step="0.01" value="0.55"></label>
+      <label>Text reveal <select id="reveal-mode">
+          <option value="type">Keyboard typing</option>
+          <option value="fade">Slow fade</option>
+          <option value="instant">Instant</option>
+        </select></label>
+      <label class="check-label"><input id="key-sound" type="checkbox" checked> Keyboard typing sound</label>
+      <label class="check-label"><input id="reduced-motion" type="checkbox"> Reduce motion</label>
+      <p class="settings-note">Add your own licensed audio files in the audio folders. The experience still works
+        without them.</p>
+      <button id="resume" class="primary-button">Return to story</button>
+    </div>
+  </div>
+  <script src="js/audio-manager.js"></script>
+  <script src="js/scene-engine.js"></script>
+  <script src="js/main.js"></script>
+</body>
+
+</html>
